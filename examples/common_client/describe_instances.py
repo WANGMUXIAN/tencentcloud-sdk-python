@@ -6,7 +6,7 @@ from tencentcloud.common.common_client import CommonClient
 from tencentcloud.common import credential
 from tencentcloud.common.exception.tencent_cloud_sdk_exception import TencentCloudSDKException
 
-# 导入可选配置类
+# 导入可选配置类t
 from tencentcloud.common.profile.client_profile import ClientProfile
 from tencentcloud.common.profile.http_profile import HttpProfile
 
