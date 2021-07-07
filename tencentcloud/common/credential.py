@@ -150,7 +150,6 @@ class STSAssumeRoleCredential(object):
         :type secret_id: str
         :param secret_key: 接口调用凭证key
         :type secret_key: str
-
         https://cloud.tencent.com/document/api/1312/48197
         :param role_arn: 角色的资源描述，参考官网文档 https://cloud.tencent.com/document/api/1312/48197 中 RoleArn 参数的描述。
         :type role_arn: str
